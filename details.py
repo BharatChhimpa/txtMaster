@@ -1,4 +1,4 @@
-api_id = 22779671
-api_hash = "125d8d88b77309dc3b154cbbfc2dacb2"
-bot_token = "6152562853:AAGimPmtvHjqcE8em9iDMH-QAjkM8133P0c"
-sudo_groups = -1002049391187
+api_id = 29683927
+api_hash = "b2eb32ac1030edd8bc36c7b554ef6fc3"
+bot_token = "7903348261:AAFgADxgmNQUiW9UhF_0srnTFCKWT6RLW90"
+sudo_groups = -2311732949
